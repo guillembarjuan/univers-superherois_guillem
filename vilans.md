@@ -3,6 +3,7 @@
 ## Doctor Boira
 - **Poder:** genera boira tòxica
 - **Objectiu:** deixar la ciutat a les fosques per controlar-la.
+- **Nou poder:** pot crear clons fets de boira
 
 ## La Calima
 - **Poder:** calor extrema
