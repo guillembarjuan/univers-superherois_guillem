@@ -12,3 +12,7 @@
 ## Rovell
 - **Poder:** oxida qualsevol metall que toca
 - **Objectiu:** destruir l'armadura de Ferro Roig.
+
+## Eclipsi
+- **Poder:** absorbeix la llum
+- **Objectiu:** anul·lar els poders de Llum de Mar.
