@@ -11,3 +11,11 @@
 ## Llum de Mar
 - **Poder:** crea escuts de llum
 - **Descripció:** científica que va obtenir els seus poders en un accident al laboratori.
+
+## Ombra Verda
+- **Poder:** es camufla amb la natura
+- **Descripció:** guardiana dels boscos del Montseny.
+
+## Pols
+- **Poder:** supervelocitat
+- **Descripció:** repartidor que corre més ràpid que el so.
